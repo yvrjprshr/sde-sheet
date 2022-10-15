@@ -16,7 +16,7 @@ It provides an environment, in which user can execute program easily
 3) IOS
 
 
-# What are the most popular operating systems?
+# What are the functions of operating systems?
 
 
 - Provide Interface
