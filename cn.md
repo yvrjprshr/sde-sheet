@@ -1,5 +1,8 @@
 ## What do you mean by Network?
+
 Set of devices connected to each other over the physical medium is known as a computer network. For example the Internet.
+
+A network consists of two or more computers that are linked in order to share resources (such as printers and CDs), exchange files, or allow electronic communications. The computers on a network may be linked through cables, telephone lines, radio waves, satellites, or infrared light beams.
 
 
 ## What do you mean by Node?
@@ -9,9 +12,25 @@ In the computer network, the node is known as a device.
 ## What do you mean by Network Topology?
 A network topology is a physical structure of the network which defines how the computers or node will be connected to each other.
 
+Types of Network Topology:
+
+1) BUS Topology: Bus topology is a network type in which every computer and network device is connected to single cable. When it has exactly two endpoints, then it is called Linear Bus topology.
+
+2) RING Topology: It is called ring topology because it forms a ring as each computer is connected to another computer, with the last one connected to the first. Exactly two neighbours for each device.
+
+3) STAR Topology: In this type of topology all the computers are connected to a single hub through a cable. This hub is the central node and all others nodes are connected to the central node.
+
+4) Mesh Topology: In Mesh Topology, every device is connected to evry other device on the network. Mesh consists of n(n-1)/2 physical channels to link n number of devices
+
+5) TREE Topology: It has a root node and all other nodes are connected to it forming a hierarchy. It is also called hierarchical topology. It should at least have three levels to the hierarchy.
+
+6) HYBRID Topology: It is two different types of topologies which is a mixture of two or more topologies. For example if in an office in one department ring topology is used and in another star topology is used, connecting these topologies will result in Hybrid Topology (ring topology and star topology).
+
 
 ## What is Routers?
 A router is a device which is responsible for sending data from source to destination over the computer network.
+
+A router is a layer 3 or network layer device. It connects different networks together and sends data packets from one network to another. A router can be used both in LANs (Local Area Networks) and WANs (Wide Area Networks). It transfers data in the form of IP packets.
 
 
 ## What is the OSI model?
