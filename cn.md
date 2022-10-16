@@ -1,16 +1,16 @@
-# What do you mean by Network?
+## What do you mean by Network?
 Set of devices connected to each other over the physical medium is known as a computer network. For example the Internet.
 
 
-# What do you mean by Node?
+## What do you mean by Node?
 In the computer network, the node is known as a device.
 
 
-# What do you mean by Network Topology?
+## What do you mean by Network Topology?
 A network topology is a physical structure of the network which defines how the computers or node will be connected to each other.
 
 
-# What is Routers?
+## What is Routers?
 A router is a device which is responsible for sending data from source to destination over the computer network.
 
 
